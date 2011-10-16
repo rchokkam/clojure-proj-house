@@ -18,6 +18,6 @@ function OnLoad() {
   searchControl.draw(document.getElementById("searchcontrol"));
 
   // Execute an inital search
-  searchControl.execute("Jitendra Takalkar");
+  searchControl.execute("Ramamohan Chokkam");
 }
 google.setOnLoadCallback(OnLoad);
